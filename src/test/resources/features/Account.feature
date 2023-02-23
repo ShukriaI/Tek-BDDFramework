@@ -9,7 +9,7 @@ Feature: Retail Application Account Feature
     
   Scenario: Verify user can update Profile Information
     When User click on Account option
-    And User update Name 'NoorNoor' and Phone '7035432310'
+    And User update Name 'NoorNoor' and Phone '7045432310'
     And User click on Update button
     And User profile information should be updated
     
