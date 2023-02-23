@@ -17,18 +17,18 @@ Feature: TEK Retail Application SignIn feature
 
     Examples: 
       | email                      | password  |
-      | shukria.iqbal@tekschool.us | Tek@2323  |
-      | phantom.tester@gmail.com     | Tek@1234 |
-      | test@tekschool.com         | Tek@1234 |
+      | shukria.iqbal@tekschool.us | Tek@2221  |
+      #| phantom.tester@gmail.com     | Tek@1234 |
+      #| test@tekschool.com         | Tek@1234 |
 
 
-
+  #I have these steps
   Scenario: Verify user can create an account into Retail website
     Given User is on retail website
     When User click on Sign in option
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name    | email                      | password | confirmPassword |
-      | Noori | noori.tester@gmail.com | Tek@5550 | Tek@5550        |
+      | Noori | Gulriz.tester@gmail.com | Tek@2221 | Tek@2221        |
     And User click on SignUp button
     Then User should be logged in into Account page 

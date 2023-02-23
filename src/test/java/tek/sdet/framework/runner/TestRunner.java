@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-     tags = "@smokeTest",
+//     tags = "@smokeTest",
      features = ("classpath:features"),
      glue = "tek.sdet.framework",
      dryRun = false,
