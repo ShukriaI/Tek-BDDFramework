@@ -61,12 +61,42 @@ Feature: Retail Application Account Feature
   #And User click on Place Your Order
   #Then a message should be displayed 'Order Placed, Thanks'
   #
-  @smokeTest
   Scenario: Verify user can add and Address
     When User click on account option
     And User click on add address option
     And User fill new address form with below information
-      | country       | FullName | PhoneNumber | StreetAddress  | apt  | city      | state      | zipCode |
+      | Country       | Fullname | PhoneNumber | StreetAddress  | Apt  | City      | State      | ZipCode |
       | United States | GullJan  |  9087653456 | 23Vermella way | 2209 | Lyndhurst | New Jersey |   07022 |
     And User click add address button
     Then a message should be displayed 'Address Added Successfully'
+
+  @smokeTest
+  Scenario: Verify User can edit an Address added on account
+    When User click on account option
+    And User click on edit address option
+    And user fill edit address form with below information
+      | country | FullName | phoneNumber | streetAddress | apt | city   | state  | zipCode |
+      | United States | Steiner  |  9882345432 | boggy Street  | 232 | berary | Florida |   22133 |
+    And User click update Your Address button
+    Then A message should be displayed 'Address Updated Successfully'
+
+  Scenario: Verify User can remove Address from Account
+    When User click on Account option
+    And User click on remove option of Address section
+    Then Address details should be removed
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

@@ -60,4 +60,32 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//div[contains(text(),'Address Added Successfully')]")
 	public WebElement addressMessageSuccessfull;
 
+	//this is the edit address locators
+	@FindBy(xpath="//button[@class='account__address-btn'][1]")
+	public WebElement addressEditButton;
+	
+	@FindBy(xpath="//div[contains(text(),'Address Updated Successfully')]")
+	public WebElement addressEdtieddButtonMessageSuccessfull;
+	
+	@FindBy(xpath="//input[@value='Anna Daive']")
+	public WebElement editAddressNameInput;
+	
+	@FindBy(xpath="//input[@value='7038998850']")
+	public WebElement addressEditPhoneInput;
+	
+	@FindBy(xpath="//input[@value='4654 Chantilly BLVD']")
+	public WebElement addressStreetEditInput;
+	
+	@FindBy(xpath="//button[@id='addressBtn']")
+	public WebElement addressEditUpdateButton;
+	//these are the remove address locators
+	
+	@FindBy(xpath="//button[@class='account__address-btn'][2]")
+	public WebElement removeAddressButton;
+	
+	@FindBy(xpath="//p[text()='shukria iqbal']")
+	public WebElement nameValidationInput;
+	
+	
+	
 }

@@ -210,9 +210,9 @@ public class CommonUtility extends BaseSetup {
 	}
 
 
-	public void clearTextWithJS(WebElement element) {
+	public void clearTextWithJS(String string) {
 		JavascriptExecutor js = ((JavascriptExecutor) getDriver());
-		js.executeScript("arguments[0].clear();", element);
+		js.executeScript(string);
 
 	}
 

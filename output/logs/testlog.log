@@ -1117,3 +1117,183 @@
 2023-02-24 11:38:43,892 - logger File -INFO - User click on Sign in option
 2023-02-24 11:38:44,090 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
 2023-02-24 11:38:44,155 - logger File -INFO - User click on login button
+2023-02-24 11:55:24,154 - logger File -INFO - User is on retail website
+2023-02-24 11:55:24,164 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 11:55:24,326 - logger File -INFO - User click on Sign in option
+2023-02-24 11:55:24,539 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 11:55:24,610 - logger File -INFO - User click on login button
+2023-02-24 11:55:26,349 - logger File -INFO - User is on retail website
+2023-02-24 11:55:26,350 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 11:55:26,533 - logger File -INFO - User click on Sign in option
+2023-02-24 11:55:26,722 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 11:55:26,785 - logger File -INFO - User click on login button
+2023-02-24 12:22:07,358 - logger File -INFO - User is on retail website
+2023-02-24 12:22:07,363 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:22:07,555 - logger File -INFO - User click on Sign in option
+2023-02-24 12:22:07,739 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:22:07,810 - logger File -INFO - User click on login button
+2023-02-24 12:22:08,139 - logger File -INFO - user clicked on Account option
+2023-02-24 12:22:08,244 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:22:09,648 - logger File -INFO - User is on retail website
+2023-02-24 12:22:09,648 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:22:09,790 - logger File -INFO - User click on Sign in option
+2023-02-24 12:22:09,988 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:22:10,045 - logger File -INFO - User click on login button
+2023-02-24 12:24:48,822 - logger File -INFO - User is on retail website
+2023-02-24 12:24:48,828 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:24:49,017 - logger File -INFO - User click on Sign in option
+2023-02-24 12:24:49,199 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:24:49,260 - logger File -INFO - User click on login button
+2023-02-24 12:24:49,592 - logger File -INFO - user clicked on Account option
+2023-02-24 12:24:49,690 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:24:51,496 - logger File -INFO - User is on retail website
+2023-02-24 12:24:51,497 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:24:51,665 - logger File -INFO - User click on Sign in option
+2023-02-24 12:24:51,846 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:24:51,907 - logger File -INFO - User click on login button
+2023-02-24 12:30:05,580 - logger File -INFO - User is on retail website
+2023-02-24 12:30:05,586 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:30:05,708 - logger File -INFO - User click on Sign in option
+2023-02-24 12:30:05,917 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:30:05,977 - logger File -INFO - User click on login button
+2023-02-24 12:30:06,334 - logger File -INFO - user clicked on Account option
+2023-02-24 12:30:06,435 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:30:08,152 - logger File -INFO - User is on retail website
+2023-02-24 12:30:08,153 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:30:08,320 - logger File -INFO - User click on Sign in option
+2023-02-24 12:30:08,517 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:30:08,581 - logger File -INFO - User click on login button
+2023-02-24 12:31:39,903 - logger File -INFO - User is on retail website
+2023-02-24 12:31:39,908 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:31:40,094 - logger File -INFO - User click on Sign in option
+2023-02-24 12:31:40,306 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:31:40,369 - logger File -INFO - User click on login button
+2023-02-24 12:31:40,695 - logger File -INFO - user clicked on Account option
+2023-02-24 12:31:40,814 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:31:42,566 - logger File -INFO - User is on retail website
+2023-02-24 12:31:42,566 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:31:42,764 - logger File -INFO - User click on Sign in option
+2023-02-24 12:31:42,935 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:31:42,997 - logger File -INFO - User click on login button
+2023-02-24 12:33:33,863 - logger File -INFO - User is on retail website
+2023-02-24 12:33:33,867 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:33:33,976 - logger File -INFO - User click on Sign in option
+2023-02-24 12:33:34,186 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:33:34,246 - logger File -INFO - User click on login button
+2023-02-24 12:33:34,866 - logger File -INFO - user clicked on Account option
+2023-02-24 12:33:34,970 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:33:36,778 - logger File -INFO - User is on retail website
+2023-02-24 12:33:36,779 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:33:36,958 - logger File -INFO - User click on Sign in option
+2023-02-24 12:33:37,159 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:33:37,216 - logger File -INFO - User click on login button
+2023-02-24 12:39:21,727 - logger File -INFO - User is on retail website
+2023-02-24 12:39:21,731 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:39:21,907 - logger File -INFO - User click on Sign in option
+2023-02-24 12:39:22,089 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:39:22,156 - logger File -INFO - User click on login button
+2023-02-24 12:39:22,488 - logger File -INFO - user clicked on Account option
+2023-02-24 12:39:22,587 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:39:24,363 - logger File -INFO - User is on retail website
+2023-02-24 12:39:24,363 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:39:24,473 - logger File -INFO - User click on Sign in option
+2023-02-24 12:39:24,666 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:39:24,723 - logger File -INFO - User click on login button
+2023-02-24 12:42:37,807 - logger File -INFO - User is on retail website
+2023-02-24 12:42:37,813 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:42:37,945 - logger File -INFO - User click on Sign in option
+2023-02-24 12:42:38,155 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:42:38,218 - logger File -INFO - User click on login button
+2023-02-24 12:42:38,576 - logger File -INFO - user clicked on Account option
+2023-02-24 12:42:38,744 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:42:40,738 - logger File -INFO - User is on retail website
+2023-02-24 12:42:40,738 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:42:40,875 - logger File -INFO - User click on Sign in option
+2023-02-24 12:42:41,068 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:42:41,125 - logger File -INFO - User click on login button
+2023-02-24 12:44:18,949 - logger File -INFO - User is on retail website
+2023-02-24 12:44:18,953 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:44:19,152 - logger File -INFO - User click on Sign in option
+2023-02-24 12:44:19,343 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:44:19,414 - logger File -INFO - User click on login button
+2023-02-24 12:44:19,738 - logger File -INFO - user clicked on Account option
+2023-02-24 12:44:19,833 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:44:20,850 - logger File -INFO - User filled new address form with below information
+2023-02-24 12:44:20,950 - logger File -INFO - User clicked update Your Address button
+2023-02-24 12:44:36,556 - logger File -INFO - User is on retail website
+2023-02-24 12:44:36,557 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:44:36,815 - logger File -INFO - User click on Sign in option
+2023-02-24 12:44:37,003 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:44:37,063 - logger File -INFO - User click on login button
+2023-02-24 12:46:25,454 - logger File -INFO - User is on retail website
+2023-02-24 12:46:25,458 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:46:25,667 - logger File -INFO - User click on Sign in option
+2023-02-24 12:46:25,850 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:46:25,917 - logger File -INFO - User click on login button
+2023-02-24 12:46:26,248 - logger File -INFO - user clicked on Account option
+2023-02-24 12:46:26,357 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:46:27,349 - logger File -INFO - User filled new address form with below information
+2023-02-24 12:46:27,453 - logger File -INFO - User clicked update Your Address button
+2023-02-24 12:47:04,892 - logger File -INFO - User is on retail website
+2023-02-24 12:47:04,892 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:47:05,047 - logger File -INFO - User click on Sign in option
+2023-02-24 12:47:05,232 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:47:05,287 - logger File -INFO - User click on login button
+2023-02-24 12:54:13,010 - logger File -INFO - User is on retail website
+2023-02-24 12:54:13,014 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:54:13,199 - logger File -INFO - User click on Sign in option
+2023-02-24 12:54:13,400 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:54:13,464 - logger File -INFO - User click on login button
+2023-02-24 12:54:13,792 - logger File -INFO - user clicked on Account option
+2023-02-24 12:54:13,897 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:54:14,896 - logger File -INFO - User filled new address form with below information
+2023-02-24 12:54:15,001 - logger File -INFO - User clicked update Your Address button
+2023-02-24 12:54:16,706 - logger File -INFO - User is on retail website
+2023-02-24 12:54:16,707 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:54:16,830 - logger File -INFO - User click on Sign in option
+2023-02-24 12:54:17,027 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:54:17,082 - logger File -INFO - User click on login button
+2023-02-24 12:55:56,300 - logger File -INFO - User is on retail website
+2023-02-24 12:55:56,306 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:55:56,484 - logger File -INFO - User click on Sign in option
+2023-02-24 12:55:56,671 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:55:56,741 - logger File -INFO - User click on login button
+2023-02-24 12:55:57,064 - logger File -INFO - user clicked on Account option
+2023-02-24 12:55:57,242 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:55:58,125 - logger File -INFO - User filled new address form with below information
+2023-02-24 12:55:58,196 - logger File -INFO - User clicked update Your Address button
+2023-02-24 12:55:59,923 - logger File -INFO - User is on retail website
+2023-02-24 12:55:59,924 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:56:00,111 - logger File -INFO - User click on Sign in option
+2023-02-24 12:56:00,291 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:56:00,350 - logger File -INFO - User click on login button
+2023-02-24 12:59:18,777 - logger File -INFO - User is on retail website
+2023-02-24 12:59:18,781 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:59:18,945 - logger File -INFO - User click on Sign in option
+2023-02-24 12:59:19,143 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:59:19,207 - logger File -INFO - User click on login button
+2023-02-24 12:59:19,537 - logger File -INFO - user clicked on Account option
+2023-02-24 12:59:19,628 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:59:20,560 - logger File -INFO - User filled new address form with below information
+2023-02-24 12:59:20,638 - logger File -INFO - User clicked update Your Address button
+2023-02-24 12:59:21,269 - logger File -INFO - A message was displayedAddress Updated Successfully
+2023-02-24 12:59:22,728 - logger File -INFO - User is on retail website
+2023-02-24 12:59:22,729 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:59:22,922 - logger File -INFO - User click on Sign in option
+2023-02-24 12:59:23,105 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:59:23,160 - logger File -INFO - User click on login button
+2023-02-24 12:59:56,706 - logger File -INFO - User is on retail website
+2023-02-24 12:59:56,710 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 12:59:56,871 - logger File -INFO - User click on Sign in option
+2023-02-24 12:59:57,068 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 12:59:57,128 - logger File -INFO - User click on login button
+2023-02-24 12:59:57,544 - logger File -INFO - user clicked on Account option
+2023-02-24 12:59:57,647 - logger File -INFO - User clicked on edit address option
+2023-02-24 12:59:58,603 - logger File -INFO - User filled new address form with below information
+2023-02-24 12:59:58,687 - logger File -INFO - User clicked update Your Address button
+2023-02-24 12:59:59,327 - logger File -INFO - A message was displayedAddress Updated Successfully
+2023-02-24 13:00:00,790 - logger File -INFO - User is on retail website
+2023-02-24 13:00:00,791 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-24 13:00:00,971 - logger File -INFO - User click on Sign in option
+2023-02-24 13:00:01,145 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-24 13:00:01,201 - logger File -INFO - User click on login button
