@@ -1,5 +1,8 @@
 package tek.sdet.framework.steps;
 
+import java.util.List;
+import java.util.Map;
+
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 
@@ -16,7 +19,7 @@ public class AccountSteps extends CommonUtility{
 	
 	
 	
-	@When("User click on Account option")
+	@When("User click on account option")
 	public void userClickOnAccountOption() {
 	    click(factory.homePage().accountOption);
 	    logger.info("user clicked on Account option");
@@ -66,9 +69,16 @@ public class AccountSteps extends CommonUtility{
 	 }
 	 @When("User fill new address form with below information")
 	 public void userFillNewAddressFormWithBelowInformation(DataTable dataTable) {
-	  
-		 
-		 
+	  List<Map<String,String>> addressInformation = dataTable.asMaps(String.class,String.class);
+	  selectByVisibleText(factory.accountPage().countryDropDown,addressInformation.get(0).get("country"));
+	  sendText(factory.accountPage().addressNameInput,addressInformation.get(0).get("FullName"));
+	  sendText(factory.accountPage().addressPhoneNumber,addressInformation.get(0).get("PhoneNumber"));
+	  sendText(factory.accountPage().streetAddressOption,addressInformation.get(0).get("StreetAddress"));
+	  sendText(factory.accountPage().apartmentAddressInput,addressInformation.get(0).get("apt"));
+	  sendText(factory.accountPage().addressCityInput,addressInformation.get(0).get("city"));
+	  selectByVisibleText(factory.accountPage().stateAddressInput,addressInformation.get(0).get("state"));
+     sendText(factory.accountPage().addressZipCodeInput,addressInformation.get(0).get("zipCode"));
+		 logger.info("User filled new address form with below information");
 		 
 	 }
 	 @When("User click add address button")
@@ -78,10 +88,10 @@ public class AccountSteps extends CommonUtility{
 
 	 }
 	 @Then("a message should be displayed {string}")
-	 public void aMessageShouldBeDisplayed(String string) {
+	 public void aMessageShouldBeDisplayed(String messageValue) {
 		waitTillPresence(factory.accountPage().addressMessageSuccessfull) ;
-	  Assert.assertEquals(factory.accountPage().addressMessageSuccessfull,string);  
-	  
+	  Assert.assertTrue(isElementDisplyed(factory.accountPage().addressMessageSuccessfull));  
+	  logger.info("The successfull message was displayed"+messageValue);
 	 }
 
 

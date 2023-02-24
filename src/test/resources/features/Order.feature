@@ -1,5 +1,5 @@
 Feature: Retail Order Page
-@smokeTest
+
   Scenario: Verify user can cancel the order
     Given User is on retail website
     When User click on sign in option
