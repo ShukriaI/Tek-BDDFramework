@@ -209,9 +209,10 @@ public class CommonUtility extends BaseSetup {
 		js.executeScript("arguments[0].setAttribute('value','" + date + "');", element);
 	}
 
-	public void clickElementWithJS(WebElement element) {
+
+	public void clearTextWithJS(WebElement element) {
 		JavascriptExecutor js = ((JavascriptExecutor) getDriver());
-		js.executeScript("arguments[0].click();", element);
+		js.executeScript("arguments[0].clear();", element);
 
 	}
 
