@@ -49,6 +49,12 @@ public class CommonUtility extends BaseSetup {
 		return this.getWait().until(ExpectedConditions.visibilityOfElementLocated(by));
 	}
 
+	public WebElement waitTillElementIsNotPresence(WebElement element) {
+		return this.getWait().until(ExpectedConditions.visibilityOf(element));
+	}
+	
+	
+	
 	public void click(WebElement element) {
 		this.waitTillClickable(element).click();
 	}

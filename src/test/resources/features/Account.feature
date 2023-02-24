@@ -61,6 +61,8 @@ Feature: Retail Application Account Feature
   #And User click on Place Your Order
   #Then a message should be displayed 'Order Placed, Thanks'
   #
+  
+ @smokeTest
   Scenario: Verify user can add and Address
     When User click on account option
     And User click on add address option
@@ -79,9 +81,9 @@ Feature: Retail Application Account Feature
       | United States | Steiner  |  9882345432 | boggy Street  | 232 | berary | Florida |   22133 |
     And User click update Your Address button
     Then A message should be displayed 'Address Updated Successfully'
-
+@smokeTest
   Scenario: Verify User can remove Address from Account
-    When User click on Account option
+    When User click on account option
     And User click on remove option of Address section
     Then Address details should be removed
     

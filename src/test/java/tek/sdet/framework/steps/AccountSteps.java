@@ -133,5 +133,16 @@ public class AccountSteps extends CommonUtility {
      logger.info("A message was displayed"+string);
 	}
 
-
+	@When("User click on remove option of Address section")
+	public void userClickOnRemoveOptionOfAddressSection() {
+	 click(factory.accountPage().removeAddressButton);   
+	logger.info("User clicked on remove option of Address section");
+		
+	}
+	@Then("Address details should be removed")
+	public void addressDetailsShouldBeRemoved() {
+	waitTillPresence(factory.accountPage().addressValidationButton);
+	Assert.assertTrue(isElementDisplyed(factory.accountPage().addressValidationButton));
+	logger.info("Address details was removed");
+	}
 }

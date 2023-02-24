@@ -83,6 +83,9 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath="//button[@class='account__address-btn'][2]")
 	public WebElement removeAddressButton;
 	
+	@FindBy(xpath="//div[@class='account__address-new']")
+	public WebElement addressValidationButton;
+	
 	@FindBy(xpath="//p[text()='shukria iqbal']")
 	public WebElement nameValidationInput;
 	
