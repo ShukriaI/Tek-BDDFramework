@@ -26,7 +26,54 @@ public class RetailAccountPage extends BaseSetup {
 
 	@FindBy(xpath = "//img[@id='profileImage']")
 	public WebElement imageInput;
-
+	
+	//card adding editing and removing locators locators
+	@FindBy(xpath="//p[contains(text(),'Add a payment method')]")
+	public WebElement updatePaymentMethod;
+	
+	@FindBy(xpath="//input[@id='cardNumberInput']")
+	public WebElement cardNumberAddinput;
+	
+	@FindBy(xpath="//input[@id='nameOnCardInput']")
+	public WebElement nameOnTheAddCard;
+	
+	@FindBy(xpath="//select[@id='expirationMonthInput']")
+	public WebElement expirationMonthAddCard;
+	
+	@FindBy(xpath="//select[@id='expirationYearInput']")
+	public WebElement expirationyearAddCard;
+	
+	@FindBy(css=" #securityCodeInput")
+	public WebElement securityCodeInputAddCard;
+	
+	@FindBy(xpath="//button[@id='paymentSubmitBtn']")
+	public WebElement paymentSubmitBtnAddCard;
+	
+	@FindBy(xpath="//div[text()='Payment Method added successfully']")
+	public WebElement paymentSuccessMessageAddCard;
+	
+	@FindBy(xpath="//img[@src='/images/master_card.png'][1]")
+	public WebElement masterCard;
+	
+	@FindBy(xpath="//button[contains(text(),'Edit')]")
+	public WebElement catdEditBoutton;
+	
+	@FindBy(xpath="//button[@class='text-blue-800 cursor-pointer hover:underline'][1]")
+	public WebElement cardEditButton;
+	
+	
+	@FindBy(xpath="//button[@id='paymentSubmitBtn']")
+	public WebElement updateYoueCardBtn;
+	
+	
+	@FindBy(xpath="//div[text()='Payment Method updated Successfully']")
+	public WebElement paymentUpdatedSuccessfully;
+	
+	
+	@FindBy(xpath="//button[contains(text(),'remove')]")
+	public WebElement removeCaredBtn;
+	
+  //address adding editing and removing locators
 	@FindBy(xpath = "//div[@class='account__address-new']")
 	public WebElement addAddressBtn;
 
@@ -86,9 +133,8 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath="//div[@class='account__address-new']")
 	public WebElement addressValidationButton;
 	
-	@FindBy(xpath="//p[text()='shukria iqbal']")
+	@FindBy(xpath="//div[@class='account__address-new']")
 	public WebElement nameValidationInput;
-	
 	
 	
 }

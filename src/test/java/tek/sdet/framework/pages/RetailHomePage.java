@@ -69,6 +69,51 @@ public class RetailHomePage extends BaseSetup{
 	@FindBy(xpath="//span[contains(text(),'Automative')]")
 	public WebElement automative;
 	
+	@FindBy(xpath="//select[@id='search']")
+	public WebElement allCategoryChangeButton;
 	
+	@FindBy(xpath="//input[@id='searchInput']")
+	public WebElement searchBarButton;
+	
+	@FindBy(xpath="//button[@id='searchBtn']")
+	public WebElement  searchClickButton;
+	
+	@FindBy(xpath="//img[@alt='Kasa Outdoor Smart Plug']")
+	public WebElement itemXpath;
+	
+	@FindBy(xpath="//select[@class='product__select']")
+	public WebElement itemQuantitybutton;
+	
+	@FindBy(xpath=" //span[contains(text(),'Add to Cart')]")
+	public WebElement addtoCartClickButton;
+	 @FindBy(id="addressBtn")
+	 public WebElement addAddressButtonOrder;
+	
+	@FindBy(css="#cartQuantity")
+     public WebElement cartQuantityAssetionBtn;
+	
+	@FindBy(xpath="//div[@id='cartBtn']")
+	public WebElement cartBtnClickToProceed;
+	
+	@FindBy(xpath="//button[@id='proceedBtn']")
+	public WebElement proceedToCheckOutBtn;
+	
+	
+	@FindBy(xpath="//button[@id='addAddressBtn']")
+	public WebElement orederWithNewAddressLink;
+	
+	@FindBy(xpath="//button[@id='addPaymentBtn']")
+	public WebElement addPaymentMethodLink;
+	
+	@FindBy(xpath="//button[@id='placeOrderBtn']")
+	public WebElement placeYourOrderButton;
+	
+	
+	@FindBy(xpath="//p[contains(text(),'Order Placed, Thanks')]")
+	public WebElement orderPlacedMessage;
+	
+	
+	@FindBy(xpath="//img[@alt='Apex Legends - 1,000 Apex Coins']")
+	public WebElement apexLegendXpath;
 	
 }

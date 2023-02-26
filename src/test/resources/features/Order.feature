@@ -1,5 +1,5 @@
 Feature: Retail Order Page
-
+#1
   Scenario: Verify user can cancel the order
     Given User is on retail website
     When User click on sign in option
@@ -12,7 +12,7 @@ Feature: Retail Order Page
     And User click on Cancel Order button
     Then A cancelation message should be displayed 'Your Order Has Been Cancelled'
 
- 
+ #2
   Scenario: Verify user can Return the order
     Given User is on retail website
     When User click on Sign in option
@@ -27,7 +27,7 @@ Feature: Retail Order Page
     And User click on return Order button
     Then Cancelation message should be displayed 'Return was successful'
     
-  
+ #3 
   Scenario: Verify user can write a review on order placed
     Given User is on retail website
     When User click on Sign in option
@@ -44,22 +44,4 @@ Feature: Retail Order Page
     Then A review message should be displayed 'Your review was added successfully'
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+  

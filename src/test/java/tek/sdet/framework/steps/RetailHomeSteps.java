@@ -105,6 +105,110 @@ public class RetailHomeSteps extends CommonUtility{
 
 	
 	
+	@When("User change the category to {string}")
+	public void userChangeTheCategoryTo(String stringCatValue) {
+	  selectByVisibleText(factory.homePage().allCategoryChangeButton, stringCatValue); 
+	logger.info("User changed the category to Smart Home");
+		
+		
+	}
+	@When("User search for an item {string}")
+	public void userSearchForAnItem(String stringItemValue) {
+   sendText(factory.homePage().searchBarButton, stringItemValue);
+  logger.info("User searched for an item"+ stringItemValue);
+	}
+	@When("User click on Search icon")
+	public void userClickOnSearchIcon() {
+	  click(factory.homePage().searchClickButton);
+	  logger.info("User clicked on Search icon");
+	}
+	
+	@When("User click on item")
+	public void userClickOnItem() {
+   click(factory.homePage().itemXpath);
+    logger.info("User clicked on item to search it");
+	}
+	@When("User select quantity {string}")
+	public void userSelectQuantity(String stringItemQuantity) {
+    selectByValue(factory.homePage().itemQuantitybutton, stringItemQuantity);
+    
+	}
+	@When("User click add to Cart button")
+	public void userClickAddToCartButton() {
+   click(factory.homePage().addtoCartClickButton);
+   logger.info("User added items on the cart");
+
+	}
+	@Then("the cart icon quantity should change to {string}")
+	public void theCartIconQuantityShouldChangeTo(String string) {
+    Assert.assertEquals(string, factory.homePage().cartQuantityAssetionBtn.getText());
+    logger.info("The cart category changed to"+string);
+
+	}
+	
+	@When("User click on the item")
+	public void userClickOnTheItem() {
+	click(factory.homePage().apexLegendXpath);
+	logger.info("User clicked on the item");
+	}
+
+	
+
+	@When("User Click On item")
+	public void UserClickOnItem() {
+	   click(factory.homePage().itemXpath);
+	   logger.info("User clicked on Item");
+	}
+	@Then("User click on Cart option")
+	public void userClickOnCartOption() {
+    click(factory.homePage().cartBtnClickToProceed);
+    logger.info("User clicked on Cart Option");
+
+	}
+	@Then("User click on proceed to checkout button")
+	public void userClickOnProceedToCheckoutButton() {
+    click(factory.homePage().proceedToCheckOutBtn);
+    logger.info("User clicked on proceed to check out");
+	}
+	
+	@Then("User click Add a new address link for shipping address")
+	public void userClickAddANewAddressLinkForShippingAddress() {
+      click(factory.homePage().orederWithNewAddressLink);
+     logger.info("User clicked on new address link");
+	}
+	@Then("User click Add Your Address button")
+	public void userClickAddYourAddressButton() {
+       click(factory.homePage().addAddressButtonOrder);
+       logger.info("User clicked add your address button");
+
+	}
+	@Then("User click Add a credit card or Debit Card for Payment method")
+	public void userClickAddACreditCardOrDebitCardForPaymentMethod() {
+      click(factory.homePage().addPaymentMethodLink);
+      logger.info("User clicked on add payment method");
+	}
+
+
+	@Then("User click on add your card button")
+	public void userClickOnAddYourCardButton() {
+     click(factory.accountPage().paymentSubmitBtnAddCard);
+     logger.info("User added the cart to the account");
+	}
+	@Then("User click on Place Your Order")
+	public void userClickOnPlaceYourOrder() {
+      click(factory.homePage().placeYourOrderButton);
+      logger.info("User placed the order");
+      
+	}
+	@Then("a Message Should be Displayed For order purpose {string}")
+	public void aMessageShouldBeDisplayedForOrderPurpose(String stringValue) {
+     Assert.assertEquals(stringValue, factory.homePage().orderPlacedMessage.getText());
+     logger.info("Message was displayed Thank you for shopping");
+	}
+
+
+
+
 	
 	
 }
