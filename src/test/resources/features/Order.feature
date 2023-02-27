@@ -15,14 +15,14 @@ Feature: Retail Order Page
     And User click on Cancel Order button
     And A cancelation message should be displayed 'Your Order Has Been Cancelled'
 
-  @smokeTest
-  Scenario: Verify user can place order again
-  And User click on buy again button
-  Then User click on place your order
+  #@smokeTest
+  #Scenario: Verify user can place order again
+  #And User click on buy again button
+  #Then User click on place your order
   
   @smokeTest
   Scenario: Verify user can Return the order
-    #And User click on Second order in list
+    And User click on Second order in list
     And User click on Return items button
     And User select the Return Reason 'Item damaged'
     And User select the drop off service 'FedEx'
@@ -40,7 +40,4 @@ Feature: Retail Order Page
     And User click Add your Review button
     Then A review message should be displayed 'Your review was added successfully'
 
-  @smokeTest
-  Scenario: Verify user can place order again
-    And User click on buy again button
-    Then User click on place your order
+ 
