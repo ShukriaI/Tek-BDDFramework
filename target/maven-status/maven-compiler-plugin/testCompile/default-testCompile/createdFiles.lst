@@ -1,4 +1,5 @@
 tek\sdet\framework\pages\RetailAccountPage.class
+tek\sdet\framework\steps\OrderSteps.class
 tek\sdet\framework\pages\RetailOrderPage.class
 tek\sdet\framework\pages\POMFactory.class
 tek\sdet\framework\runner\TestRunner.class

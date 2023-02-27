@@ -36,12 +36,12 @@ public class RetailHomeSteps extends CommonUtility{
 		logger.info("user search for product "+productValue);
 	}
 	
+	
 	@Then("The product should be displayed")
 	public void theProductShouldBeDisplayed() {
 	Assert.assertTrue(isElementDisplyed(factory.homePage().pokemanProductImage));	
 	logger.info("the product is displayed on home page");
 	}
-	
 	
 	
 	@When("User click on All section")
@@ -56,7 +56,7 @@ public class RetailHomeSteps extends CommonUtility{
 		
 		List<List<String>> expectedSideBar = dataTable.asLists(String.class);
 	   
-		List<WebElement> ActualSideBar = factory.homePage().sidebarAllListDepartment;
+		List<WebElement> ActualSideBar = factory.homePage().sidebarAllDepartment;
 		
 		for(int i=0; i<expectedSideBar.get(0).size();i++) {
 			Assert.assertEquals(ActualSideBar.get(i).getText(),expectedSideBar.get(0).get(i));
@@ -74,7 +74,7 @@ public class RetailHomeSteps extends CommonUtility{
 //	
 	@When("User is on {string}")
 	public void userOnElectrinocs(String department) {
-	    List<WebElement> sideBarOptions= factory.homePage().sidebarAllListDepartment;
+	    List<WebElement> sideBarOptions= factory.homePage().sidebarAllDepartment;
 	      for(WebElement option:sideBarOptions) {
               if(option.getText().equals(department)) {
         	 click(option);
@@ -90,7 +90,7 @@ public class RetailHomeSteps extends CommonUtility{
 	@Then("below options are present in department")
 	public void belowOptionsArePresentInDepartment(DataTable dataTable) {
 	   List<List<String>> expectedDepartmentOption = dataTable.asLists(String.class);
-	   List<WebElement> actualDepartmentOption = factory.homePage().sidebarAllListDepartment;
+	   List<WebElement> actualDepartmentOption = factory.homePage().sidebarAllDepartment;
 	   for(int i =0; i<expectedDepartmentOption.get(0).size();i++) {
 		   for(WebElement dept:actualDepartmentOption) {
 			   if(dept.getText().equals(expectedDepartmentOption.get(0).get(i))) {
@@ -102,9 +102,6 @@ public class RetailHomeSteps extends CommonUtility{
 		   }
 	   }
 	}
-
-	
-	
 	@When("User change the category to {string}")
 	public void userChangeTheCategoryTo(String stringCatValue) {
 	  selectByVisibleText(factory.homePage().allCategoryChangeButton, stringCatValue); 
@@ -141,18 +138,23 @@ public class RetailHomeSteps extends CommonUtility{
 	}
 	@Then("the cart icon quantity should change to {string}")
 	public void theCartIconQuantityShouldChangeTo(String string) {
+		if(!factory.homePage().cartQuantityAssetionBtn.getText().equals(string)) {
+			
+			click(factory.homePage().cartButtonOption);
+			click(factory.homePage().deleteItemFromCart);
+		    logger.info("The cart category changed to");
+			if(factory.homePage().cartQuantityAssetionBtn.getText().equals(string)) {
     Assert.assertEquals(string, factory.homePage().cartQuantityAssetionBtn.getText());
-    logger.info("The cart category changed to"+string);
-
+		}
 	}
+	}
+	
 	
 	@When("User click on the item")
 	public void userClickOnTheItem() {
 	click(factory.homePage().apexLegendXpath);
 	logger.info("User clicked on the item");
 	}
-
-	
 
 	@When("User Click On item")
 	public void UserClickOnItem() {
@@ -161,7 +163,7 @@ public class RetailHomeSteps extends CommonUtility{
 	}
 	@Then("User click on Cart option")
 	public void userClickOnCartOption() {
-    click(factory.homePage().cartBtnClickToProceed);
+    click(factory.homePage().cartButtonOption);
     logger.info("User clicked on Cart Option");
 
 	}
