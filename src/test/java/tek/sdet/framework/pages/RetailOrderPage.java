@@ -70,13 +70,13 @@ public class RetailOrderPage extends BaseSetup{
 	public WebElement reviewSuccessfullMessage;
 	
 	
-	@FindBy(xpath="//button[@id='buyAgainBtn']")
+	@FindBy(xpath="//button[text()='Buy again']")
 	public WebElement buyAgainButton;
 	
 	@FindBy(css="#placeOrderBtn")
 	public WebElement placeYourOrderBtnAgain;
 	
-	@FindBy(xpath="(//p[text()='Show Details'])[2]")
+	@FindBy(xpath="(//p[text()='Show Details'])[1]")
 	public WebElement secondItemOrder;
 	
 	

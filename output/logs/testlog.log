@@ -3815,3 +3815,101 @@
 2023-02-27 15:18:07,512 - logger File -INFO - User clicked on order section
 2023-02-27 15:18:07,916 - logger File -INFO - User clicked on buy again button
 2023-02-27 15:18:08,031 - logger File -INFO - User clicked on place your order button
+2023-02-27 15:45:03,221 - logger File -INFO - User is on retail website
+2023-02-27 15:45:03,228 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:45:03,412 - logger File -INFO - User click on Sign in option
+2023-02-27 15:45:03,611 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:45:03,679 - logger File -INFO - User click on login button
+2023-02-27 15:45:03,966 - logger File -INFO - User clicked on order section
+2023-02-27 15:45:04,243 - logger File -INFO - User clicked on first order in list
+2023-02-27 15:45:04,325 - logger File -INFO - User clicked on Cancel The Order button
+2023-02-27 15:45:04,401 - logger File -INFO - User selected the cancelation ReasonBought wrong item
+2023-02-27 15:45:04,466 - logger File -INFO - User clicked on Cancel Order button
+2023-02-27 15:45:04,560 - logger File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-02-27 15:45:06,021 - logger File -INFO - User is on retail website
+2023-02-27 15:45:06,022 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:45:06,150 - logger File -INFO - User click on Sign in option
+2023-02-27 15:45:06,364 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:45:06,431 - logger File -INFO - User click on login button
+2023-02-27 15:45:07,090 - logger File -INFO - User clicked on order section
+2023-02-27 15:45:07,379 - logger File -INFO - User clicked on buy again button
+2023-02-27 15:45:07,466 - logger File -INFO - User clicked on place your order button
+2023-02-27 15:45:08,913 - logger File -INFO - User is on retail website
+2023-02-27 15:45:08,915 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:45:09,141 - logger File -INFO - User click on Sign in option
+2023-02-27 15:45:09,342 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:45:09,407 - logger File -INFO - User click on login button
+2023-02-27 15:45:09,699 - logger File -INFO - User clicked on order section
+2023-02-27 15:45:10,014 - logger File -INFO - User clicked on return order button
+2023-02-27 15:45:10,087 - logger File -INFO - User selected the return reason
+2023-02-27 15:45:10,157 - logger File -INFO - User selected the drop off sercive
+2023-02-27 15:45:10,229 - logger File -INFO - User clicked on return order button
+2023-02-27 15:45:10,375 - logger File -INFO - Cancellation message was displayed
+2023-02-27 15:45:11,816 - logger File -INFO - User is on retail website
+2023-02-27 15:45:11,817 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:45:11,908 - logger File -INFO - User click on Sign in option
+2023-02-27 15:45:12,140 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:45:12,213 - logger File -INFO - User click on login button
+2023-02-27 15:45:12,931 - logger File -INFO - User clicked on order section
+2023-02-27 15:45:13,235 - logger File -INFO - User clicked on first order in list
+2023-02-27 15:45:13,312 - logger File -INFO - User clicked on review button
+2023-02-27 15:45:13,533 - logger File -INFO - User wrote Review HeadLine and Discription
+2023-02-27 15:45:13,635 - logger File -INFO - User clicked on add review button
+2023-02-27 15:45:14,312 - logger File -INFO - A review was displayed on the screen Your review was added successfully
+2023-02-27 15:45:15,782 - logger File -INFO - User is on retail website
+2023-02-27 15:45:15,782 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:45:15,864 - logger File -INFO - User click on Sign in option
+2023-02-27 15:45:16,082 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:45:16,139 - logger File -INFO - User click on login button
+2023-02-27 15:45:16,461 - logger File -INFO - User clicked on order section
+2023-02-27 15:45:16,722 - logger File -INFO - User clicked on buy again button
+2023-02-27 15:45:16,816 - logger File -INFO - User clicked on place your order button
+2023-02-27 15:46:17,708 - logger File -INFO - User is on retail website
+2023-02-27 15:46:17,713 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:46:17,919 - logger File -INFO - User click on Sign in option
+2023-02-27 15:46:18,123 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:46:18,194 - logger File -INFO - User click on login button
+2023-02-27 15:46:18,488 - logger File -INFO - User clicked on order section
+2023-02-27 15:46:18,718 - logger File -INFO - User clicked on first order in list
+2023-02-27 15:46:18,805 - logger File -INFO - User clicked on Cancel The Order button
+2023-02-27 15:46:18,879 - logger File -INFO - User selected the cancelation ReasonBought wrong item
+2023-02-27 15:46:18,949 - logger File -INFO - User clicked on Cancel Order button
+2023-02-27 15:46:19,093 - logger File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-02-27 15:46:20,582 - logger File -INFO - User is on retail website
+2023-02-27 15:46:20,583 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:46:20,776 - logger File -INFO - User click on Sign in option
+2023-02-27 15:46:21,026 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:46:21,109 - logger File -INFO - User click on login button
+2023-02-27 15:46:21,405 - logger File -INFO - User clicked on order section
+2023-02-27 15:46:21,694 - logger File -INFO - User clicked on buy again button
+2023-02-27 15:46:21,790 - logger File -INFO - User clicked on place your order button
+2023-02-27 15:46:23,265 - logger File -INFO - User is on retail website
+2023-02-27 15:46:23,265 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:46:23,444 - logger File -INFO - User click on Sign in option
+2023-02-27 15:46:23,669 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:46:23,731 - logger File -INFO - User click on login button
+2023-02-27 15:46:24,005 - logger File -INFO - User clicked on order section
+2023-02-27 15:46:24,306 - logger File -INFO - User clicked on return order button
+2023-02-27 15:46:24,376 - logger File -INFO - User selected the return reason
+2023-02-27 15:46:24,442 - logger File -INFO - User selected the drop off sercive
+2023-02-27 15:46:24,508 - logger File -INFO - User clicked on return order button
+2023-02-27 15:46:24,652 - logger File -INFO - Cancellation message was displayed
+2023-02-27 15:46:26,168 - logger File -INFO - User is on retail website
+2023-02-27 15:46:26,168 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:46:26,376 - logger File -INFO - User click on Sign in option
+2023-02-27 15:46:26,582 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:46:26,646 - logger File -INFO - User click on login button
+2023-02-27 15:46:26,908 - logger File -INFO - User clicked on order section
+2023-02-27 15:46:27,163 - logger File -INFO - User clicked on first order in list
+2023-02-27 15:46:27,255 - logger File -INFO - User clicked on review button
+2023-02-27 15:46:27,470 - logger File -INFO - User wrote Review HeadLine and Discription
+2023-02-27 15:46:27,556 - logger File -INFO - User clicked on add review button
+2023-02-27 15:46:28,188 - logger File -INFO - A review was displayed on the screen Your review was added successfully
+2023-02-27 15:46:29,703 - logger File -INFO - User is on retail website
+2023-02-27 15:46:29,703 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 15:46:29,924 - logger File -INFO - User click on Sign in option
+2023-02-27 15:46:30,123 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 15:46:30,179 - logger File -INFO - User click on login button
+2023-02-27 15:46:30,450 - logger File -INFO - User clicked on order section
+2023-02-27 15:46:30,787 - logger File -INFO - User clicked on buy again button
+2023-02-27 15:46:30,885 - logger File -INFO - User clicked on place your order button
