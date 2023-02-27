@@ -64,7 +64,33 @@ public class SignInSteps extends CommonUtility{
  
 }
 	
-	
+  //change password steps
+
+	@Then("User enter below information")
+	public void userEnterBelowInformation(DataTable dataTable) {
+	 List<Map<String,String>> passwordUpdate =dataTable.asMaps(String.class,String.class);
+	 sendText(factory.signInPage().previousPasswordInput, passwordUpdate.get(0).get("previousPassword"));
+	 sendText(factory.signInPage().newPasswordInput, passwordUpdate.get(0).get("newPassword"));
+	 sendText(factory.signInPage().confimePasswordButton, passwordUpdate.get(0).get("confirmPassword"));
+	 logger.info("User entered above information");
+
+
+	}
+	@Then("User click on Change password button")
+	public void userClickOnChangePasswordButton() {
+   click(factory.signInPage().credentialSubmitButton);
+   logger.info("User clicked on change password button");
+
+	}
+	@Then("a message should be displayed {string}")
+	public void aMessageShouldBeDisplayed(String string) {
+		waitTillPresence(factory.signInPage().passwordUpdateMessage);
+    Assert.assertEquals(string,factory.signInPage().passwordUpdateMessage.getText());
+    logger.info(string+"A message was displayed");
+	}
+
+
+
 	
 }	
 	

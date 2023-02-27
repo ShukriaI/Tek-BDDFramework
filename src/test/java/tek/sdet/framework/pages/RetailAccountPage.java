@@ -49,7 +49,7 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath="//button[@id='paymentSubmitBtn']")
 	public WebElement paymentSubmitBtnAddCard;
 	
-	@FindBy(xpath="//div[text()='Payment Method added successfully']")
+	@FindBy(xpath="//div[contains(text(),'Payment Method added sucessfully')]")
 	public WebElement paymentSuccessMessageAddCard;
 	
 	@FindBy(xpath="//img[@src='/images/master_card.png'][1]")

@@ -1,19 +1,20 @@
 Feature: Retail Home feature
 
-  #1`@smokeTest
+  #1
+  @smokeTest
   Scenario: Verify user can search a product
     Given User is on retail website
     When User search for "pokemon" product
     Then The product should be displayed
 
-  #@smokeTest
+  @smokeTest
   Scenario: Verify Shop by Department sidebar
     Given User is on retail website
     When User click on All section
     Then below options are present in shop by department sidebar
       | Electronics | Computers | Smart Home | Sports | Automative |
 
-  #@smokeTest
+  @smokeTest
   Scenario Outline: Verify Department sidebar option
     Given User is on retail website
     When User click on All section
@@ -27,7 +28,7 @@ Feature: Retail Home feature
       | Smart Home  | Smart Home Lightning           | Plugs and Outlets       |
       | Sports      | Athletic Clothing              | Exercise & Fitness      |
       | Automative  | Automative Parts & Accessories | MotoCycle & Powersports |
-#@smokeTest
+@smokeTest
   Scenario: Verify User can add an item to cart 
     Given User is on retail website
     When User click on Sign in option
@@ -41,7 +42,7 @@ Feature: Retail Home feature
     And User select quantity '2'
     And User click add to Cart button
     Then the cart icon quantity should change to '2' 
-#@smokeTest
+@smokeTest
   Scenario: Verify User can place an order without Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
@@ -69,7 +70,7 @@ Feature: Retail Home feature
     And User click on add your card button
     And User click on Place Your Order
     Then a Message Should be Displayed For order purpose 'Order Placed, Thanks'
-#@smokeTest
+@smokeTest
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option

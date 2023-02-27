@@ -3955,3 +3955,266 @@
 2023-02-27 16:24:50,269 - logger File -INFO - User clicked on order section
 2023-02-27 16:24:50,527 - logger File -INFO - User clicked on buy again button
 2023-02-27 16:24:50,611 - logger File -INFO - User clicked on place your order button
+2023-02-27 16:43:24,932 - logger File -INFO - User is on retail website
+2023-02-27 16:43:24,936 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:43:25,145 - logger File -INFO - User click on Sign in option
+2023-02-27 16:43:25,356 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:43:25,423 - logger File -INFO - User click on login button
+2023-02-27 16:43:25,767 - logger File -INFO - user clicked on Account option
+2023-02-27 16:43:25,877 - logger File -INFO - user clicked on Account option
+2023-02-27 16:43:26,212 - logger File -INFO - User filled the information form successfully
+2023-02-27 16:43:26,323 - logger File -INFO - User clicked on Update button
+2023-02-27 16:43:26,341 - logger File -INFO - User profile information should be updated
+2023-02-27 16:43:27,953 - logger File -INFO - User is on retail website
+2023-02-27 16:43:27,954 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:43:28,177 - logger File -INFO - User click on Sign in option
+2023-02-27 16:43:28,388 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:43:28,457 - logger File -INFO - User click on login button
+2023-02-27 16:43:28,768 - logger File -INFO - user clicked on Account option
+2023-02-27 16:43:29,390 - logger File -INFO - User clicked on masterCard
+2023-02-27 16:43:29,474 - logger File -INFO - User clicked on add a payment method link
+2023-02-27 16:43:29,895 - logger File -INFO - User fill Debit or credit card information
+2023-02-27 16:43:29,967 - logger File -INFO - User clicked on add your card button
+2023-02-27 16:44:11,800 - logger File -INFO - User is on retail website
+2023-02-27 16:44:11,802 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:44:11,928 - logger File -INFO - User click on Sign in option
+2023-02-27 16:44:12,139 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:44:12,210 - logger File -INFO - User click on login button
+2023-02-27 16:44:12,571 - logger File -INFO - user clicked on Account option
+2023-02-27 16:44:12,678 - logger File -INFO - User clicked on masterCard
+2023-02-27 16:44:12,805 - logger File -INFO - User click on Edit option of card section
+2023-02-27 16:44:13,350 - logger File -INFO - user clicked on Update Your Card button
+2023-02-27 16:44:13,987 - logger File -INFO - A message was displayedPayment Method updated Successfully
+2023-02-27 16:44:15,562 - logger File -INFO - User is on retail website
+2023-02-27 16:44:15,562 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:44:15,655 - logger File -INFO - User click on Sign in option
+2023-02-27 16:44:15,877 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:44:15,934 - logger File -INFO - User click on login button
+2023-02-27 16:44:16,322 - logger File -INFO - user clicked on Account option
+2023-02-27 16:44:16,927 - logger File -INFO - User clicked on masterCard
+2023-02-27 16:44:16,997 - logger File -INFO - User clicked on remove option of card section
+2023-02-27 16:44:17,030 - logger File -INFO - payment details was removedtrue
+2023-02-27 16:44:18,746 - logger File -INFO - User is on retail website
+2023-02-27 16:44:18,746 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:44:18,990 - logger File -INFO - User click on Sign in option
+2023-02-27 16:44:19,177 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:44:19,233 - logger File -INFO - User click on login button
+2023-02-27 16:44:19,596 - logger File -INFO - user clicked on Account option
+2023-02-27 16:44:19,675 - logger File -INFO - user clicked on Account option
+2023-02-27 16:44:19,804 - logger File -INFO - User clicked on add address option
+2023-02-27 16:44:20,393 - logger File -INFO - User filled new address form with below information
+2023-02-27 16:44:20,470 - logger File -INFO - User clicked add address button
+2023-02-27 16:44:21,095 - logger File -INFO - The successfull message was displayedAddress Added Successfully
+2023-02-27 16:44:22,657 - logger File -INFO - User is on retail website
+2023-02-27 16:44:22,658 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:44:22,824 - logger File -INFO - User click on Sign in option
+2023-02-27 16:44:23,033 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:44:23,092 - logger File -INFO - User click on login button
+2023-02-27 16:44:23,406 - logger File -INFO - user clicked on Account option
+2023-02-27 16:44:23,488 - logger File -INFO - user clicked on Account option
+2023-02-27 16:44:23,606 - logger File -INFO - User clicked on edit address option
+2023-02-27 16:44:24,453 - logger File -INFO - User filled edited address form with below information
+2023-02-27 16:44:24,541 - logger File -INFO - User clicked update Your Address button
+2023-02-27 16:44:25,179 - logger File -INFO - A message was displayedAddress Updated Successfully
+2023-02-27 16:44:26,691 - logger File -INFO - User is on retail website
+2023-02-27 16:44:26,691 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:44:26,805 - logger File -INFO - User click on Sign in option
+2023-02-27 16:44:27,065 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:44:27,132 - logger File -INFO - User click on login button
+2023-02-27 16:44:27,496 - logger File -INFO - user clicked on Account option
+2023-02-27 16:44:27,582 - logger File -INFO - user clicked on Account option
+2023-02-27 16:44:27,672 - logger File -INFO - User clicked on remove option of Address section
+2023-02-27 16:44:27,720 - logger File -INFO - Address details was removed
+2023-02-27 16:52:33,601 - logger File -INFO - User is on retail website
+2023-02-27 16:52:33,605 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:52:33,820 - logger File -INFO - User click on Sign in option
+2023-02-27 16:52:34,037 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:52:34,107 - logger File -INFO - User click on login button
+2023-02-27 16:52:34,517 - logger File -INFO - user clicked on Account option
+2023-02-27 16:52:34,632 - logger File -INFO - user clicked on Account option
+2023-02-27 16:52:34,964 - logger File -INFO - User filled the information form successfully
+2023-02-27 16:52:35,069 - logger File -INFO - User clicked on Update button
+2023-02-27 16:52:35,093 - logger File -INFO - User profile information should be updated
+2023-02-27 16:52:36,994 - logger File -INFO - User is on retail website
+2023-02-27 16:52:36,995 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:52:37,261 - logger File -INFO - User click on Sign in option
+2023-02-27 16:52:37,560 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:52:37,660 - logger File -INFO - User click on login button
+2023-02-27 16:52:38,013 - logger File -INFO - user clicked on Account option
+2023-02-27 16:52:38,149 - logger File -INFO - User clicked on masterCard
+2023-02-27 16:52:38,263 - logger File -INFO - User clicked on add a payment method link
+2023-02-27 16:52:38,846 - logger File -INFO - User fill Debit or credit card information
+2023-02-27 16:52:38,933 - logger File -INFO - User clicked on add your card button
+2023-02-27 16:52:39,635 - logger File -INFO - message was displayedPayment Method added sucessfully
+2023-02-27 16:52:41,397 - logger File -INFO - User is on retail website
+2023-02-27 16:52:41,398 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:52:41,686 - logger File -INFO - User click on Sign in option
+2023-02-27 16:52:42,067 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:52:42,195 - logger File -INFO - User click on login button
+2023-02-27 16:52:42,568 - logger File -INFO - user clicked on Account option
+2023-02-27 16:52:42,753 - logger File -INFO - User clicked on masterCard
+2023-02-27 16:52:42,890 - logger File -INFO - User click on Edit option of card section
+2023-02-27 16:52:43,643 - logger File -INFO - user clicked on Update Your Card button
+2023-02-27 16:52:44,351 - logger File -INFO - A message was displayedPayment Method updated Successfully
+2023-02-27 16:52:46,100 - logger File -INFO - User is on retail website
+2023-02-27 16:52:46,101 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:52:46,404 - logger File -INFO - User click on Sign in option
+2023-02-27 16:52:46,697 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:52:46,787 - logger File -INFO - User click on login button
+2023-02-27 16:52:47,131 - logger File -INFO - user clicked on Account option
+2023-02-27 16:52:47,266 - logger File -INFO - User clicked on masterCard
+2023-02-27 16:52:47,378 - logger File -INFO - User clicked on remove option of card section
+2023-02-27 16:52:47,424 - logger File -INFO - payment details was removedtrue
+2023-02-27 16:52:49,307 - logger File -INFO - User is on retail website
+2023-02-27 16:52:49,307 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:52:49,596 - logger File -INFO - User click on Sign in option
+2023-02-27 16:52:49,888 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:52:49,987 - logger File -INFO - User click on login button
+2023-02-27 16:52:50,338 - logger File -INFO - user clicked on Account option
+2023-02-27 16:52:50,454 - logger File -INFO - user clicked on Account option
+2023-02-27 16:52:50,615 - logger File -INFO - User clicked on add address option
+2023-02-27 16:52:51,531 - logger File -INFO - User filled new address form with below information
+2023-02-27 16:52:51,636 - logger File -INFO - User clicked add address button
+2023-02-27 16:52:52,275 - logger File -INFO - The successfull message was displayedAddress Added Successfully
+2023-02-27 16:52:54,066 - logger File -INFO - User is on retail website
+2023-02-27 16:52:54,067 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:52:54,364 - logger File -INFO - User click on Sign in option
+2023-02-27 16:52:54,652 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:52:54,741 - logger File -INFO - User click on login button
+2023-02-27 16:52:55,079 - logger File -INFO - user clicked on Account option
+2023-02-27 16:52:55,198 - logger File -INFO - user clicked on Account option
+2023-02-27 16:52:55,355 - logger File -INFO - User clicked on edit address option
+2023-02-27 16:52:56,559 - logger File -INFO - User filled edited address form with below information
+2023-02-27 16:52:56,675 - logger File -INFO - User clicked update Your Address button
+2023-02-27 16:52:57,316 - logger File -INFO - A message was displayedAddress Updated Successfully
+2023-02-27 16:52:59,138 - logger File -INFO - User is on retail website
+2023-02-27 16:52:59,139 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 16:52:59,448 - logger File -INFO - User click on Sign in option
+2023-02-27 16:52:59,745 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 16:52:59,843 - logger File -INFO - User click on login button
+2023-02-27 16:53:00,198 - logger File -INFO - user clicked on Account option
+2023-02-27 16:53:00,333 - logger File -INFO - user clicked on Account option
+2023-02-27 16:53:00,441 - logger File -INFO - User clicked on remove option of Address section
+2023-02-27 16:53:00,506 - logger File -INFO - Address details was removed
+2023-02-27 17:04:33,893 - logger File -INFO - User is on retail website
+2023-02-27 17:04:33,901 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:04:34,114 - logger File -INFO - User click on Sign in option
+2023-02-27 17:04:34,332 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 17:04:34,401 - logger File -INFO - User click on login button
+2023-02-27 17:04:36,157 - logger File -INFO - User is on retail website
+2023-02-27 17:04:36,157 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:04:36,414 - logger File -INFO - User click on Sign in option
+2023-02-27 17:04:36,841 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 17:04:36,940 - logger File -INFO - User click on login button
+2023-02-27 17:04:38,733 - logger File -INFO - User is on retail website
+2023-02-27 17:04:38,733 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:04:38,949 - logger File -INFO - User click on Sign in option
+2023-02-27 17:04:39,029 - logger File -INFO - User click on Create New Account button
+2023-02-27 17:04:39,405 - logger File -INFO - user filled the signUp information form
+2023-02-27 17:04:39,472 - logger File -INFO - user clicked on signUp button
+2023-02-27 17:14:16,822 - logger File -INFO - User is on retail website
+2023-02-27 17:14:16,826 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:14:17,112 - logger File -INFO - user search for product pokemon
+2023-02-27 17:14:17,203 - logger File -INFO - the product is displayed on home page
+2023-02-27 17:14:18,772 - logger File -INFO - User is on retail website
+2023-02-27 17:14:18,772 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:14:18,870 - logger File -INFO - User clicked on All section
+2023-02-27 17:14:19,008 - logger File -INFO - Electronics : is eqaul to: Electronics
+2023-02-27 17:14:19,046 - logger File -INFO - Computers : is eqaul to: Computers
+2023-02-27 17:14:19,077 - logger File -INFO - Smart Home : is eqaul to: Smart Home
+2023-02-27 17:14:19,105 - logger File -INFO - Sports : is eqaul to: Sports
+2023-02-27 17:14:19,131 - logger File -INFO - Automative : is eqaul to: Automative
+2023-02-27 17:14:20,662 - logger File -INFO - User is on retail website
+2023-02-27 17:14:20,662 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:14:20,748 - logger File -INFO - User clicked on All section
+2023-02-27 17:14:22,447 - logger File -INFO - User is on retail website
+2023-02-27 17:14:22,449 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:14:22,588 - logger File -INFO - User clicked on All section
+2023-02-27 17:14:22,770 - logger File -INFO - Smart Home Lightning(Is present)
+2023-02-27 17:14:22,807 - logger File -INFO - Plugs and Outlets(Is present)
+2023-02-27 17:14:24,267 - logger File -INFO - User is on retail website
+2023-02-27 17:14:24,267 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:14:24,419 - logger File -INFO - User clicked on All section
+2023-02-27 17:14:24,587 - logger File -INFO - Athletic Clothing(Is present)
+2023-02-27 17:14:24,620 - logger File -INFO - Exercise & Fitness(Is present)
+2023-02-27 17:14:26,213 - logger File -INFO - User is on retail website
+2023-02-27 17:14:26,213 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:14:26,406 - logger File -INFO - User clicked on All section
+2023-02-27 17:14:26,559 - logger File -INFO - Automative Parts & Accessories(Is present)
+2023-02-27 17:14:28,036 - logger File -INFO - User is on retail website
+2023-02-27 17:14:28,037 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:14:28,220 - logger File -INFO - User click on Sign in option
+2023-02-27 17:14:28,456 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 17:14:28,515 - logger File -INFO - User click on login button
+2023-02-27 17:14:28,814 - logger File -INFO - User changed the category to Smart Home
+2023-02-27 17:14:28,898 - logger File -INFO - User searched for an itemkasa outdoor smart plug
+2023-02-27 17:14:28,960 - logger File -INFO - User clicked on Search icon
+2023-02-27 17:14:29,099 - logger File -INFO - User clicked on item to search it
+2023-02-27 17:14:29,301 - logger File -INFO - User added items on the cart
+2023-02-27 17:14:30,943 - logger File -INFO - User is on retail website
+2023-02-27 17:14:30,943 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:14:31,147 - logger File -INFO - User click on Sign in option
+2023-02-27 17:14:31,359 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 17:14:31,414 - logger File -INFO - User click on login button
+2023-02-27 17:14:31,689 - logger File -INFO - User changed the category to Smart Home
+2023-02-27 17:14:31,776 - logger File -INFO - User searched for an itemkasa outdoor smart plug
+2023-02-27 17:14:31,836 - logger File -INFO - User clicked on Search icon
+2023-02-27 17:14:32,022 - logger File -INFO - User clicked on Item
+2023-02-27 17:14:32,236 - logger File -INFO - User added items on the cart
+2023-02-27 17:14:32,360 - logger File -INFO - User clicked on Cart Option
+2023-02-27 17:14:32,444 - logger File -INFO - User clicked on proceed to check out
+2023-02-27 17:14:32,534 - logger File -INFO - User clicked on new address link
+2023-02-27 17:14:33,198 - logger File -INFO - User filled new address form with below information
+2023-02-27 17:14:33,286 - logger File -INFO - User clicked add your address button
+2023-02-27 17:14:33,374 - logger File -INFO - User clicked on add payment method
+2023-02-27 17:14:33,761 - logger File -INFO - User fill Debit or credit card information
+2023-02-27 17:14:33,822 - logger File -INFO - User added the cart to the account
+2023-02-27 17:14:33,943 - logger File -INFO - User placed the order
+2023-02-27 17:14:34,153 - logger File -INFO - Message was displayed Thank you for shopping
+2023-02-27 17:14:35,739 - logger File -INFO - User is on retail website
+2023-02-27 17:14:35,740 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 17:14:35,866 - logger File -INFO - User click on Sign in option
+2023-02-27 17:14:36,079 - logger File -INFO - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 17:14:36,145 - logger File -INFO - User click on login button
+2023-02-27 17:14:36,448 - logger File -INFO - User changed the category to Smart Home
+2023-02-27 17:14:36,533 - logger File -INFO - User searched for an itemApex Legends
+2023-02-27 17:14:36,598 - logger File -INFO - User clicked on Search icon
+2023-02-27 17:14:36,733 - logger File -INFO - User clicked on the item
+2023-02-27 17:14:36,940 - logger File -INFO - User added items on the cart
+2023-02-27 17:14:37,166 - logger File -INFO - User clicked on Cart Option
+2023-02-27 17:14:37,257 - logger File -INFO - User clicked on proceed to check out
+2023-02-27 17:14:37,319 - logger File -INFO - User placed the order
+2023-02-27 18:03:59,853 - logger File -INFO - User is on retail website
+2023-02-27 18:03:59,869 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:04:00,054 - logger File -INFO - User click on Sign in option
+2023-02-27 18:04:00,131 - logger File -INFO - User click on Create New Account button
+2023-02-27 18:04:00,537 - logger File -INFO - user filled the signUp information form
+2023-02-27 18:04:00,618 - logger File -INFO - user clicked on signUp button
+2023-02-27 18:04:12,416 - logger File -INFO - User is on retail website
+2023-02-27 18:04:12,417 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:04:12,653 - logger File -INFO - User click on Sign in option
+2023-02-27 18:04:12,858 - logger File -INFO - User entered email Falaq.sdet@gmail.com and password Tek@2221
+2023-02-27 18:04:12,927 - logger File -INFO - User click on login button
+2023-02-27 18:04:52,534 - logger File -INFO - User is on retail website
+2023-02-27 18:04:52,536 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:04:52,849 - logger File -INFO - user search for product pokemon
+2023-02-27 18:04:52,936 - logger File -INFO - the product is displayed on home page
+2023-02-27 18:11:52,420 - logger File -INFO - User is on retail website
+2023-02-27 18:11:52,424 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:11:52,641 - logger File -INFO - User click on Sign in option
+2023-02-27 18:11:52,725 - logger File -INFO - User click on Create New Account button
+2023-02-27 18:11:53,087 - logger File -INFO - user filled the signUp information form
+2023-02-27 18:11:53,163 - logger File -INFO - user clicked on signUp button
+2023-02-27 18:11:55,098 - logger File -INFO - User is on retail website
+2023-02-27 18:11:55,099 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:11:55,312 - logger File -INFO - User click on Sign in option
+2023-02-27 18:11:55,521 - logger File -INFO - User entered email baqa.sdet@gmail.com and password Tek@2221
+2023-02-27 18:11:55,590 - logger File -INFO - User click on login button
+2023-02-27 18:11:55,931 - logger File -INFO - user clicked on Account option
+2023-02-27 18:11:56,219 - logger File -INFO - User entered above information
+2023-02-27 18:11:56,294 - logger File -INFO - User clicked on change password button
+2023-02-27 18:11:57,236 - logger File -INFO - Password Updated SuccessfullyA message was displayed
+2023-02-27 18:11:58,888 - logger File -INFO - User is on retail website
+2023-02-27 18:11:58,890 - logger File -INFO - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:11:59,178 - logger File -INFO - user search for product pokemon
+2023-02-27 18:11:59,256 - logger File -INFO - the product is displayed on home page

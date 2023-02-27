@@ -65,27 +65,24 @@ public class RetailSignInPage extends BaseSetup {
 	public WebElement signUpBtn;
 	
 	
+	@FindBy(xpath="//input[@id='previousPasswordInput']")
+	public WebElement previousPasswordInput;
 	
 	
+	@FindBy(xpath="//input[@id='newPasswordInput']")
+	public WebElement newPasswordInput;
+	
+	@FindBy(xpath="//input[@id='confirmPasswordInput']")
+	public WebElement confimePasswordButton;
 	
 	
+	@FindBy(xpath="//button[@id='credentialsSubmitBtn']")
+	public WebElement credentialSubmitButton;
+	
+	@FindBy(xpath="//div[contains(text(),'Password Updated Successfully')]")
+	public WebElement passwordUpdateMessage;
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 }
