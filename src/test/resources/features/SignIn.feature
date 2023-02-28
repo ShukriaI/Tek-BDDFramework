@@ -1,6 +1,6 @@
 Feature: TEK Retail Application SignIn feature
 
-@smokeTest
+@smokeTest1
   Scenario: Verify user can sign in into Retail Application
     Given User is on retail website
     When User click on Sign in option

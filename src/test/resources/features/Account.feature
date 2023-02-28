@@ -11,18 +11,18 @@ Feature: Retail Application Account Feature
   @smokeTest
   Scenario: Verify user can update Profile Information
     When User click on account option
-    And User update Name 'Nazawoli' and Phone '7042030000'
+    And User update Name 'Nazawoli' and Phone '7042039900'
     And User click on Update button
     And User profile information should be updated
 
-@smokeTest
+  @smokeTest
   Scenario: Verify User can add Debit or Credit card
     
          And User click on bank card
          And User click on add option of card section
          And User fill Debit or Credit Card information 
            | cardNumber       | nameOnCard     | expirationMonth | expirationYear | securityCode |
-           | 8009000011191239 | SheirnGull |              6 |           2026 |          112 |
+           | 8009990011001239 | SheirnGull |              6 |           2026 |          112 |
          And user click on add Your Card button
          Then Message should be displayed added card 'Payment Method added sucessfully'
 
@@ -38,14 +38,14 @@ Feature: Retail Application Account Feature
         Then a message should be displayed card edited 'Payment Method updated Successfully'  
 
 
- @smokeTest
+  @smokeTest
   Scenario: Verify User can remove Debit or Credit card
         And User click on bank card
         And User click on remove option of card section
         Then payment details should be removed
 
 
- @smokeTest
+  @smokeTest
   Scenario: Verify user can add and Address
     When User click on account option
     And User click on add address option
@@ -55,7 +55,7 @@ Feature: Retail Application Account Feature
     And User click add address button
     Then A message should be displayed for added address 'Address Added Successfully'
 
- @smokeTest
+  @smokeTest
   Scenario: Verify User can edit an Address added on account
     When User click on account option
     And User click on edit address option

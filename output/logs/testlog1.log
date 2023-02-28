@@ -4218,3 +4218,57 @@
 2023-02-27 18:11:58,890 [main] INFO logger File - Actual Title React AppEquals ExpectedTitle React App
 2023-02-27 18:11:59,178 [main] INFO logger File - user search for product pokemon
 2023-02-27 18:11:59,256 [main] INFO logger File - the product is displayed on home page
+2023-02-27 18:26:59,477 [main] INFO logger File - User is on retail website
+2023-02-27 18:26:59,481 [main] INFO logger File - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:26:59,684 [main] INFO logger File - User click on Sign in option
+2023-02-27 18:26:59,897 [main] INFO logger File - User entered email peshak.sdet@gmail.com and password Tek@2221
+2023-02-27 18:26:59,972 [main] INFO logger File - User click on login button
+2023-02-27 18:28:48,446 [main] INFO logger File - User is on retail website
+2023-02-27 18:28:48,451 [main] INFO logger File - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:28:48,596 [main] INFO logger File - User click on Sign in option
+2023-02-27 18:28:48,681 [main] INFO logger File - User click on Create New Account button
+2023-02-27 18:28:49,047 [main] INFO logger File - user filled the signUp information form
+2023-02-27 18:28:49,116 [main] INFO logger File - user clicked on signUp button
+2023-02-27 18:28:51,036 [main] INFO logger File - User is on retail website
+2023-02-27 18:28:51,036 [main] INFO logger File - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:28:51,230 [main] INFO logger File - User click on Sign in option
+2023-02-27 18:28:51,425 [main] INFO logger File - User entered email tall.sdet@gmail.com and password Tek@2222
+2023-02-27 18:28:51,494 [main] INFO logger File - User click on login button
+2023-02-27 18:28:51,879 [main] INFO logger File - user clicked on Account option
+2023-02-27 18:28:52,138 [main] INFO logger File - User entered above information
+2023-02-27 18:28:52,207 [main] INFO logger File - User clicked on change password button
+2023-02-27 18:30:11,546 [main] INFO logger File - User is on retail website
+2023-02-27 18:30:11,551 [main] INFO logger File - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:30:11,715 [main] INFO logger File - User click on Sign in option
+2023-02-27 18:30:11,829 [main] INFO logger File - User click on Create New Account button
+2023-02-27 18:30:12,349 [main] INFO logger File - user filled the signUp information form
+2023-02-27 18:30:12,464 [main] INFO logger File - user clicked on signUp button
+2023-02-27 18:30:15,069 [main] INFO logger File - User is on retail website
+2023-02-27 18:30:15,070 [main] INFO logger File - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 18:30:15,331 [main] INFO logger File - User click on Sign in option
+2023-02-27 18:30:15,640 [main] INFO logger File - User entered email daraz.sdet@gmail.com and password Tek@2222
+2023-02-27 18:30:15,740 [main] INFO logger File - User click on login button
+2023-02-27 18:30:16,124 [main] INFO logger File - user clicked on Account option
+2023-02-27 18:30:16,497 [main] INFO logger File - User entered above information
+2023-02-27 18:30:16,592 [main] INFO logger File - User clicked on change password button
+2023-02-27 18:30:17,551 [main] INFO logger File - Password Updated SuccessfullyA message was displayed
+2023-02-27 19:25:59,731 [main] INFO logger File - User is on retail website
+2023-02-27 19:25:59,736 [main] INFO logger File - Actual Title React AppEquals ExpectedTitle React App
+2023-02-27 19:25:59,938 [main] INFO logger File - User click on Sign in option
+2023-02-27 19:26:00,149 [main] INFO logger File - User entered email shukria.iqbal@tekschool.us and password Tek@2221
+2023-02-27 19:26:00,214 [main] INFO logger File - User click on login button
+2023-02-27 19:26:00,533 [main] INFO logger File - User changed the category to Smart Home
+2023-02-27 19:26:00,625 [main] INFO logger File - User searched for an itemkasa outdoor smart plug
+2023-02-27 19:26:00,687 [main] INFO logger File - User clicked on Search icon
+2023-02-27 19:26:00,837 [main] INFO logger File - User clicked on Item
+2023-02-27 19:26:01,066 [main] INFO logger File - User added items on the cart
+2023-02-27 19:26:01,310 [main] INFO logger File - User clicked on Cart Option
+2023-02-27 19:26:01,401 [main] INFO logger File - User clicked on proceed to check out
+2023-02-27 19:26:01,488 [main] INFO logger File - User clicked on new address link
+2023-02-27 19:26:02,187 [main] INFO logger File - User filled new address form with below information
+2023-02-27 19:26:02,299 [main] INFO logger File - User clicked add your address button
+2023-02-27 19:26:02,403 [main] INFO logger File - User clicked on add payment method
+2023-02-27 19:26:02,841 [main] INFO logger File - User fill Debit or credit card information
+2023-02-27 19:26:02,908 [main] INFO logger File - User added the cart to the account
+2023-02-27 19:26:03,517 [main] INFO logger File - User placed the order
+2023-02-27 19:26:03,720 [main] INFO logger File - Message was displayed Thank you for shopping
